@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "GoNativeCore"
-  spec.version      = "1.0.0"
+  spec.version      = "1.2.8"
   spec.summary      = "A copy of the GoNativeCore dependency for iOS."
 
   # This description is used to generate tags and improve search results.
